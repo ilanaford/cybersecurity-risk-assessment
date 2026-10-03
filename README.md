@@ -61,7 +61,7 @@ Recommended controls included:
 
 The complete assessment is available below:
 
-**Cybersecurity Risk Assessment - Lakeside Medical Center**
+[View the Full Cybersecurity Risk Assessment](./Cybersecurity-Risk-Assessment-Lakeside-Medical-Center.pdf)
 
 ## Disclaimer
 
