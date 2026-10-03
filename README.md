@@ -59,6 +59,8 @@ Recommended controls included:
 
 ## Project Deliverable
 
+The complete assessment is available below:
+
 📄 **[View the Full Cybersecurity Risk Assessment](./Cybersecurity-Risk-Assessment-Lakeside-Medical-Center.pdf)**
 
 ## Disclaimer
